@@ -1,2 +1,26 @@
-# atm-simulation
-This is a simple ATM simulation that works with a passcode, balance withdrawal, deposit, etc. Password is 1234
+# @'
+
+# \# atm-simulation (C++)
+
+# 
+
+# A simple ATM simulation that supports login (PIN), checking balance, withdrawals, and deposits.
+
+# 
+
+# \## Run
+
+# Default PIN: 1234
+
+# 
+
+# \## Build \& Run (PowerShell)
+
+# ```powershell
+
+# cmake -S . -B build
+
+# cmake --build build --config Release
+
+# .\\build\\Release\\atm\_simulation.exe
+
